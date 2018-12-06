@@ -1,0 +1,20 @@
+# Site settings
+title: AgriCraft
+email: info@agricraft..de
+url: https://agricraft.de
+description: "We let you observer your crops and minimize your pesticidal usage."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: AgriCraft
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
